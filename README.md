@@ -1,0 +1,1 @@
+This is the trained TnT POS tagger for Sinhala. Refer to manual.ps for instructions on how to use. Some POS annotated data can be found at https://github.com/nlpc-uom/Sinhala-POS-Data Details of the POS tag set can be found in the following research papers. If any research publication uses this POS tagger, kindly give due credit to these publications.
